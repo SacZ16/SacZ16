@@ -1,4 +1,3 @@
-
 <div>
 <div style='display:flex;flex-direction:row;word-wrap: break-word;'>
 <img width="50%"  src='bienvenidos.gif'><p style='width:50%; font-size:80px;text-align: center'>SOY( )</p>
@@ -6,9 +5,9 @@
 <img src="./545.png" width="100%" title="hover text">
 <hr>
 <p >var descripcion= 'Soy una persona proactiva, me gustan los desafíos y participar en nuevos proyectospara mi, además de aportar todos los conocimientos que he adquirido en mi formación académica. Tengo capacidad para trabajar en equipo e impulsar valores que marquen a las personas como el del compañerismo y la amistad.'</p>
-<p >var portafolio= 'en construcción.'</p>
+<p >var portafolio= <a href='https://sacz16.github.io/Portafolio/'target="_blank">'Click aqui para ir'</a></p>
 <hr>
-<p>VIDEOGAME HENRY PI</p>
+<p>VIDEOGAME APP</p>
 <div style='display:flex'>
 <img width="50%" src='VideoGamePI.gif' alt='videogamepi'/>
 <div width='500px' style='display:flex;flex-direction:row;word-wrap: break-word;'>
@@ -21,13 +20,13 @@
 🟢 Pagina para ver los detalles del videojuego</p>
 
 <div width='500px' style='display:flex;flex-direction:row;word-wrap: break-word;'>
-<p >var repositorio= <a href='https://github.com/SacZ16/PI-Videogames-FT-13' target="_blank">'Click aqui para ir'</a>
+<p >var repositorio= <a href='https://github.com/SacZ16/Videogames-App' target="_blank">'Click aqui para ir'</a>
 </div>
 </div>
 </div>
 </div>
 <hr>
-<p>POKEMON HENRY PI</p>
+<p>POKEMON APP</p>
 <div style='display:flex'>
 <img width="50%" src='PokemonPI.gif' alt='videogamepi'/>
 <div width='500px' style='display:flex;flex-direction:row;word-wrap: break-word;'>
@@ -39,7 +38,7 @@
 🟢 Formulario controlado para agregar un pokemon
 🟢 Pagina para ver los detalles del pokemon</p>
 <div width='500px' style='display:flex;flex-direction:row;word-wrap: break-word;'>
-<p >var repositorio= <a href='https://github.com/SacZ16/PI-Pokemon-FT-14a'target="_blank">'Click aqui para ir'</a>
+<p >var repositorio= <a href='https://github.com/SacZ16/Pokemon-App'target="_blank">'Click aqui para ir'</a>
 </div>
 </div>
 </div>
