@@ -6,6 +6,10 @@
 <hr>
 <p >var descripcion= 'Soy una persona proactiva, me gustan los desafíos y participar en nuevos proyectospara mi, además de aportar todos los conocimientos que he adquirido en mi formación académica. Tengo capacidad para trabajar en equipo e impulsar valores que marquen a las personas como el del compañerismo y la amistad.'</p>
 <p >var portafolio= <a href='https://sacz16.github.io/Portafolio/'target="_blank">'Click aqui para ir'</a></p>
+  <p >var whatsapp= '+543541679878'</p>
+  <p >var correo= 'alexiscoronel545@gmail.com'</p>
+  <p >var linkedin= <a href='https://www.linkedin.com/in/alexis-coronel/'target="_blank">'Click aqui para ir'</a></p>
+  <p >var localidad='Argentina - Cordoba'</p>
 <hr>
 <p>VIDEOGAME APP</p>
 <div style='display:flex'>
