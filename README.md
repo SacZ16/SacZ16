@@ -1,6 +1,7 @@
 <div>
 <div style='display:flex;flex-direction:row;word-wrap: break-word;'>
 <img width="50%"  src='bienvenidos.gif'><p style='width:50%; font-size:80px;text-align: center'>const AlexisCoronel=()=>{</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sacz16&count_private=true" alt="SacZ16" />
 </div>
 <img src="./545.png" width="100%" title="hover text">
 <hr>
@@ -73,4 +74,5 @@ En particular, me desenvolví en el área de Front-end,css, donde tuve que hacer
 <div> ─▒▒▒▒▒▒▒──▒▒▒▒▒▒▒──▒▒▒▒▒▒▒──▒▒▒▒▒▒▒──▐████──█─█</div>
 <div> ─▒▒▒▒▒▒▒──▒▒▒▒▒▒▒──▒▒▒▒▒▒▒──▒▒▒▒▒▒▒───█████▄</div>
 <div> ─▒─▒─▒─▒──▒─▒─▒─▒──▒─▒─▒─▒──▒─▒─▒─▒────▀████▀</div>
+
 </div>
