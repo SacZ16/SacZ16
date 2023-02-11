@@ -1,9 +1,11 @@
 <div>
 <div style='display:flex;flex-direction:row;word-wrap: break-word;'>
-<img width="50%"  src='https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif'><p style='width:50%; font-size:80px;text-align: center'>const AlexisCoronel=()=>{</p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SacZ16&show_icons=true&theme=yeblu" alt="SacZ16" />
+<img width="49%" height='207px'  src='https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif'>
+<img align="left"  width="49%"  src="https://github-readme-stats.vercel.app/api?username=SacZ16&show_icons=true&theme=yeblu" alt="SacZ16" />
 </div>
 <img src="./545.png" width="100%" title="hover text">
+<p style='width:50%; font-size:80px;text-align: center'>const AlexisCoronel=()=>{</p>
+
 <hr>
 <p >const descripcion= 'Soy una persona proactiva, me gustan los desafíos y participar en nuevos proyectos, además de aportar todos los conocimientos que he adquirido en mi formación académica. Tengo capacidad para trabajar en equipo e impulsar valores que marquen a las personas como el del compañerismo y la amistad.'</p>
 <p >const portafolio= <a href='https://sacz16.github.io/Portafolio/'target="_blank">'Click aqui para ir'</a></p>
