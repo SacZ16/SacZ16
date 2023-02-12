@@ -1,7 +1,7 @@
 <div>
-<div style='display:flex;flex-direction:row;word-wrap: break-word;'>  
-<img align="left"  width="45.5%"  src="https://github-readme-stats.vercel.app/api?username=SacZ16&show_icons=true&theme=yeblu" alt="SacZ16" />
-<img align="left"  width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sacz16&show_icons=true&theme=yeblu" alt="SacZ16" />
+<div style='display:flex;width:100%;justify-content: space-between'>  
+<img   width='100%'  src="https://github-readme-stats.vercel.app/api?username=SacZ16&show_icons=true&theme=yeblu" alt="SacZ16" />
+<img   width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=sacz16&show_icons=true&theme=yeblu" alt="SacZ16" />
 </div>
 <img src="./545.png" width="100%" title="hover text">
 <p style='width:50%; font-size:80px;text-align: center'>const AlexisCoronel=()=>{</p>
@@ -28,19 +28,19 @@ En particular, me desenvolví en el área de Front-end,css, donde tuve que hacer
 </div>
 </div>
 <hr>
-<p>POKEMON APP</p>
+<p>VIDEOGAME APP</p>
 <div style='display:flex'>
-<img width="50%" src='PokemonPI.gif' alt='videogamepi'/>
+<img width="50%" src='VideoGamePI.gif' alt='videogamepi'/>
 <div width='500px' style='display:flex;flex-direction:row;word-wrap: break-word;'>
 <div style='width:100%;'>
-<p >🎮 Pokemon App:puedes ver 40 pokemones y buscar entre los 1118 existentes con su información utilizando la API pokeapi.</p>
-<p >En el Front-End utilicé React, Redux y todos los componentes fueron desarrollados con CSS puro. En el Back-End consumí la API de pokeapi utilizando Node.JS y Express. Además utilice PostgreSQL para poder que el usuario pueda agregar su propio pokemon.</p>
-<p >🟢 Input de búsqueda de pokemon's por nombre
-🟢 Ordenamientos y filtros
-🟢 Formulario controlado para agregar un pokemon
-🟢 Pagina para ver los detalles del pokemon</p>
+<p >🕹️ Videogames App:puedes ver distintos videojuegos con su información utilizando la API RAWG.</p>
+<p >En el Front-End utilicé React, Redux y todos los componentes fueron desarrollados con CSS puro. En el Back-End consumí la API de RAWG utilizando Node.JS y Express. Además utilice PostgreSQL para poder que el usuario pueda crear su propio videojuego.</p>
+<p >🟢 Input de búsqueda de videojuegos por nombre 
+🟢 Ordenamientos y filtros 
+🟢 Formulario controlado para crear un videojuego
+ 🟢 Pagina para ver los detalles del videojuego</p>
 <div width='500px' style='display:flex;flex-direction:row;word-wrap: break-word;'>
-<p >const repositorio= <a href='https://github.com/SacZ16/Pokemon-App'target="_blank">'Click aqui para ir'</a>
+<p >var repositorio= <a href='https://github.com/SacZ16/Pokemon-App'target="_blank">'Click aqui para ir'</a>
 </div>
 </div>
 </div>
