@@ -4,6 +4,11 @@
 <img  align="right" width='48%' src="https://github-readme-streak-stats.herokuapp.com/?user=sacz16&show_icons=true&theme=yeblu" alt="SacZ16" />
 </div>
 <img src="./545.png" width="100%" title="hover text">
+
+  <h3>Tech:</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css,express,git,jquery,materialui,mongodb,mysql,nodejs,postgres,postman,react,redux,sass,sequelize,vscode,vite,webpack,pug,bootstrap,bash,babel"/>
+</p>
 <p style='width:50%; font-size:80px;text-align: center'>const AlexisCoronel=()=>{</p>
 
 <hr>
@@ -75,3 +80,4 @@ En particular, me desenvolví en el área de Front-end,css, donde tuve que hacer
 <div> ─▒▒▒▒▒▒▒──▒▒▒▒▒▒▒──▒▒▒▒▒▒▒──▒▒▒▒▒▒▒───█████▄</div>
 <div> ─▒─▒─▒─▒──▒─▒─▒─▒──▒─▒─▒─▒──▒─▒─▒─▒────▀████▀</div>
 </div>
+<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" width="100%" title="hover text">
