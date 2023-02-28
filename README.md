@@ -5,6 +5,7 @@
 </div>
 <img src="./545.png" width="100%" title="hover text">
 
+<hr>
   <h3>Tech:</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,express,git,jquery,materialui,mongodb,mysql,nodejs,postgres,postman,react,redux,sass,sequelize,vscode,vite,webpack,pug,bootstrap,bash,babel"/>
