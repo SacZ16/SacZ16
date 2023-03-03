@@ -79,4 +79,3 @@ En particular, me desenvolví en el área de Front-end,css, donde tuve que hacer
 <div> ─▒▒▒▒▒▒▒──▒▒▒▒▒▒▒──▒▒▒▒▒▒▒──▒▒▒▒▒▒▒───█████▄</div>
 <div> ─▒─▒─▒─▒──▒─▒─▒─▒──▒─▒─▒─▒──▒─▒─▒─▒────▀████▀</div>
 </div>
-<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" width="100%" title="hover text">
