@@ -24,7 +24,6 @@
 <p >🕹️ Tekal Memory Game:Colaboré en el desarrollo de un juego web que predice el impacto cognitivo de ciertos videos e imágenes, midiendo la memorabilidad de los mismos, tanto a corto como a largo plazo.
 En particular, me desenvolví en el área de Front-end,css, donde tuve que hacer un responsive para todos los dispositivos, incluido los celulares horizontalmente, También se agrego un efecto parallax, pop up de login,resgister,tutorial y aviso de juego terminado, todo eso con css puro, además de participar en los componentes de React.js
  El equipo se manejaba con las metodologías agiles de SCRUM.Stand-up meeting diarios junto al Tech Lead y cada dos dias con el Tech Lead y la empresa</p>
-
 <div width='500px' style='display:flex;flex-direction:row;word-wrap: break-word;'>
 <p >const repositorio= <a href='https://github.com/SacZ16/Tekal.Game' target="_blank">'Click aqui para ir'</a>
 </div>
