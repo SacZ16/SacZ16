@@ -3,7 +3,7 @@
 <img  align="left" width='45.5%'  src="https://github-readme-stats.vercel.app/api?username=SacZ16&show_icons=true&theme=yeblu" alt="SacZ16" />
 <img  align="right" width='48%' src="https://github-readme-streak-stats.herokuapp.com/?user=sacz16&show_icons=true&theme=yeblu" alt="SacZ16" />
 </div>
-<img src="./545.png" width="100%" title="hover text">     
+<img src="./545.png" width="100%" title="hover text">    
 <hr> 
   <h3>Tech:</h3>
 <p align="center">
