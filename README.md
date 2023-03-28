@@ -74,4 +74,5 @@ En particular, me desenvolví en el área de Front-end,css, donde tuve que hacer
 <br>
   <p>}</p>
 <hr>
+  
 </div>
