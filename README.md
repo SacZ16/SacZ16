@@ -17,6 +17,7 @@
   <p >const correo= 'alexiscoronel545@gmail.com'</p>
   <p >const linkedin= <a href='https://www.linkedin.com/in/alexis-coronel/'target="_blank">'Click aqui para ir'</a></p>
 <hr>
+  
   <p>TEKAL GAME</p>
 <div style='display:flex'>
 <img width="50%" src='Tekal Memory Game.gif' alt='Tekal Memory Game.gif'/>
