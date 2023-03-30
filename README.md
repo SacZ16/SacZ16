@@ -7,7 +7,6 @@
 <hr> 
   <h3>Tech:</h3> 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=js,html,css,express,git,jquery,materialui,mongodb,nodejs,postgres,postman,react,redux,sass,sequelize,vscode,vite,bootstrap"/>
 </p>
 <p style='width:50%; font-size:80px;text-align: center'>const AlexisCoronel=()=>{</p>
