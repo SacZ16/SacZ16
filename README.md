@@ -12,7 +12,7 @@
 </p>
 <p style='width:50%; font-size:80px;text-align: center'>const AlexisCoronel=()=>{</p>
 <hr>
-<p >const descripcion= 'Soy una persona proactiva, me gustan los desafíos y participar en nuevos proyectos, además de aportar todos los conocimientos que he adquirido en mi formación académica. Tengo capacidad para trabajar en equipo e impulsar valores que marquen a las personas como el del compañerismo y la amistad.'</p>
+<p >const descripcion= ' Soy una persona proactiva, me gustan los desafíos y participar en nuevos proyectos, además de aportar todos los conocimientos que he adquirido en mi formación académica. Tengo capacidad para trabajar en equipo e impulsar valores que marquen a las personas como el del compañerismo y la amistad.'</p>
 <p >const portafolio= <a href='https://sacz16.github.io/Portafolio/'target="_blank">'Click aqui para ir'</a></p>
   <p >const correo= 'alexiscoronel545@gmail.com'</p>
   <p >const linkedin= <a href='https://www.linkedin.com/in/alexis-coronel/'target="_blank">'Click aqui para ir'</a></p>
