@@ -9,6 +9,8 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,express,git,jquery,materialui,mongodb,nodejs,postgres,postman,react,redux,sass,sequelize,vscode,vite,bootstrap"/>
 </p>
+
+
 <p style='width:50%; font-size:80px;text-align: center'>const AlexisCoronel=()=>{</p>
 <hr>
 <p >const descripcion= ' Soy una persona proactiva, me gustan los desafíos y participar en nuevos proyectos, además de aportar todos los conocimientos que he adquirido en mi formación académica. Tengo capacidad para trabajar en equipo e impulsar valores que marquen a las personas como el del compañerismo y la amistad.'</p>
