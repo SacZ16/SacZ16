@@ -17,6 +17,7 @@
   <p >const linkedin= <a href='https://www.linkedin.com/in/alexis-coronel/'target="_blank">'Click aqui para ir'</a></p>
 <hr>
   
+
   
   <p>TEKAL GAME</p>
 <div style='display:flex'>
@@ -30,6 +31,7 @@ En particular, me desenvolví en el área de Front-end,css, donde tuve que hacer
 <p >const repositorio= <a href='https://github.com/SacZ16/Tekal.Game' target="_blank">'Click aqui para ir'</a>
 </div>
 </div>
+
 </div>
 </div>
 <hr>
